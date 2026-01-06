@@ -23,6 +23,7 @@ The system uses text preprocessing, TF-IDF feature extraction, and machine learn
 🛠️ Technologies Used
 
 - Programming Language: Python
+- RegEx
 - NLP: NLTK
 - Machine Learning: Scikit-learn
 - Vectorization: TF-IDF
